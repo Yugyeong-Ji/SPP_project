@@ -1,4 +1,5 @@
 #  'AI기반 MBTI 예측 웹서비스 프로젝트' in University of Southern California
+## 2023 USC 한미 해커톤 2등 수상작
 
 ### 텍스트 데이터를 이용한 MBTI 예측 알고리즘
 
